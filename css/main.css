@@ -1,0 +1,30 @@
+.menu {
+    
+    padding: 30px;
+}
+.menu ul{
+     background-color: #b9c74e;
+    list-style:none; 
+    pading:0px;
+    margin: 0px;
+}
+
+.menu ul li{
+   
+    display:inline;
+    margin-right:1em;
+}
+.menu ul li a{
+    font-family:"Trebuchent MS",sans-serif;
+    text-decoration: none;
+    color:#fff;
+    font-size: 30px;
+}
+.menu ul li a:hover{
+     color :#080808;
+}
+
+.introduce{
+    text-align:center;
+    background-color:#c7c7c7;
+}
