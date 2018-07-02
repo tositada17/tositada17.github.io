@@ -24,6 +24,11 @@
      color :#080808;
 }
 
+body{
+    margin:0;
+    padding:0;  
+}
+
 .introduce{
     text-align:center;
     background-color:#c7c7c7;
